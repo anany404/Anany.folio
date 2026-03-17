@@ -2,17 +2,14 @@ import StarIcon from "./StarIcon.jsx";
 import SkillBars from "./SkillBars.jsx";
 
 const tools = [
-  { icon: "/img/icons/icon-html.svg", name: "HTML5" },
-  { icon: "/img/icons/icon-css.svg", name: "CSS3" },
-  { icon: "/img/icons/bootstrap-5-logo-icon.svg", name: "Bootstrap" },
-  {
-    icon: "/img/icons/javascript-programming-language-icon.svg",
-    name: "JavaScript",
-  },
-  { icon: "/img/icons/social_14047411.png", name: "WordPress" },
-  { icon: "/img/icons/wixx.png", name: "Wix" },
-  { icon: "/img/icons/canva-icon.svg", name: "Canva" },
-  { icon: "/img/icons/pngimg.com - php_PNG18.png", name: "PHP" },
+  { icon: "/Anany.folio/img/icons/icon-html.svg", name: "HTML5" },
+  { icon: "/Anany.folio/img/icons/icon-css.svg", name: "CSS3" },
+  { icon: "/Anany.folio/img/icons/bootstrap-5-logo-icon.svg", name: "Bootstrap" },
+  { icon: "/Anany.folio/img/icons/javascript-programming-language-icon.svg", name: "JavaScript" },
+  { icon: "/Anany.folio/img/icons/social_14047411.png", name: "WordPress" },
+  { icon: "/Anany.folio/img/icons/wixx.png", name: "Wix" },
+  { icon: "/Anany.folio/img/icons/canva-icon.svg", name: "Canva" },
+  { icon: "/Anany.folio/img/icons/php.png", name: "PHP" },
 ];
 
 export default function ResumeSection() {
