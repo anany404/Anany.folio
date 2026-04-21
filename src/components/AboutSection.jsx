@@ -71,9 +71,9 @@ export default function AboutSection() {
                   <small className="top">Email</small>
                   <a
                     className="text-link-bold"
-                    href="mailto:abhirajgupta9129@gmail.com?subject=Message%20from%20your%20site"
+                    href="mailto:anany.snippet22@gmail.com?subject=Message%20from%20your%20site"
                   >
-                    abhirajgupta9129@gmail.com
+                    anany.snippet22@gmail.com
                   </a>
                 </h6>
               </div>

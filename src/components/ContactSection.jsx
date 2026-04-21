@@ -173,7 +173,7 @@ export default function ContactSection() {
             <div className="col-12 col-md-4 contact-lines__data">
               <p className="contact-lines__title animate-in-up">Email</p>
               <p className="contact-lines__text animate-in-up">
-                <a className="text-link-bold" href="mailto:abhirajgupta9129@gmail.com?subject=Hello, Contacting via Your Portfolio">abhirajgupta9129@gmail.com</a>
+                <a className="text-link-bold" href="mailto:anany.snippet22@gmail.com?subject=Hello, Contacting via Your Portfolio">anany.snippet22@gmail.com</a>
               </p>
             </div>
           </div>

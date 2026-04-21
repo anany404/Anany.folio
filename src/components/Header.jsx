@@ -482,7 +482,7 @@ export default function Header() {
         {/* CTA */}
         <a
           className="nh-cta"
-          href="mailto:abhirajgupta9129@gmail.com?subject=Hello,Let's Work Together – Contacting via Your Portfolio"
+          href="mailto:anany.snippet22@gmail.com?subject=Hello,Let's Work Together – Contacting via Your Portfolio"
           target="_blank"
           rel="noreferrer"
           aria-label="Let's Talk"
